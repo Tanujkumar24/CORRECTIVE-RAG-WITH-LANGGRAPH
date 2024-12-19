@@ -27,10 +27,10 @@ The system follows these steps:
 ### Workflow Diagrams
 
 #### High-Level Workflow
-![Corrective Workflow](README_corrective.png)
+![Corrective Workflow](https://github.com/Tanujkumar24/CORRECTIVE-RAG-WITH-LANGGRAPH/blob/main/graph/corrective.png)
 
 #### Detailed Node Execution
-![Detailed Graph](README_graph.jpg)
+![Detailed Graph](https://github.com/Tanujkumar24/CORRECTIVE-RAG-WITH-LANGGRAPH/blob/main/graph/graph.jpg)
 
 These diagrams illustrate the step-by-step processing and decision-making in the pipeline, ensuring the system generates high-quality responses.
 
