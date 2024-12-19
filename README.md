@@ -107,3 +107,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 For further queries, contact [tanujkumar](mailto:tanuj.mangalapally@gmail.com).
+**Portfolio**: [tanujkumar-portfolio](https://tanujkumar24.github.io/Tanujkumar-portfolio/)
